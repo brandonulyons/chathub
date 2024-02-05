@@ -2575,7 +2575,7 @@ __metadata:
     i18next: "npm:^23.7.11"
     i18next-browser-languagedetector: "npm:^7.2.0"
     immer: "npm:^10.0.3"
-    inter-ui: "npm:^3.19.3"
+    inter-ui: "npm:^4.0.1"
     jotai: "npm:^2.6.0"
     jotai-immer: "npm:^0.2.0"
     js-base64: "npm:^3.7.5"
@@ -4506,10 +4506,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"inter-ui@npm:^3.19.3":
-  version: 3.19.3
-  resolution: "inter-ui@npm:3.19.3"
-  checksum: 93b3cfd57e5592f87f503ab40724863768296606954735dd4c85ba0cc3287f66db99d22b0447f8d33955c99be14f1e515d5988b7c0f0abac17c465092c38306b
+"inter-ui@npm:^4.0.1":
+  version: 4.0.1
+  resolution: "inter-ui@npm:4.0.1"
+  checksum: 698dae7474ae49772afe05686c268b37a1ca118384caf5a9bc773d0c328931aed54aec2713f4be6d1c856c48477360fc16a89e355bcf98c5efb420ee5cba5ced
   languageName: node
   linkType: hard
 
