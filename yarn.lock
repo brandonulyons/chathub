@@ -2577,7 +2577,7 @@ __metadata:
     immer: "npm:^10.0.3"
     inter-ui: "npm:^3.19.3"
     jotai: "npm:^2.6.0"
-    jotai-immer: "npm:^0.2.0"
+    jotai-immer: "npm:^0.3.0"
     js-base64: "npm:^3.7.5"
     lodash-es: "npm:^4.17.21"
     md5: "npm:^2.3.0"
@@ -4903,14 +4903,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jotai-immer@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "jotai-immer@npm:0.2.0"
+"jotai-immer@npm:^0.3.0":
+  version: 0.3.0
+  resolution: "jotai-immer@npm:0.3.0"
   peerDependencies:
     immer: "*"
-    jotai: ">=1.11.0"
+    jotai: ">=2.0.0"
     react: ">=17.0.0"
-  checksum: b88a8e808d2ebbbf6e99e0957534737974e31cb688710a9b023c1e1dc8032174ecc9fab728d2d4d883c2b85f134fd9782d55b7158aceb9adc8fee0cedc6184eb
+  checksum: 4f8b6dd766edc177bdc75b3326f6053de40bd4ed4518b54a0b5de59dd4f097cffd551530ada6bc036ee99844c5a104570f60c730906a5a1c656e0ee8dc215206
   languageName: node
   linkType: hard
 
