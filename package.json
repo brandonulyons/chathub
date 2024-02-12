@@ -70,7 +70,7 @@
     "i18next": "^23.7.11",
     "i18next-browser-languagedetector": "^7.2.0",
     "immer": "^10.0.3",
-    "inter-ui": "^3.19.3",
+    "inter-ui": "^4.0.2",
     "jotai": "^2.6.0",
     "jotai-immer": "^0.2.0",
     "js-base64": "^3.7.5",
